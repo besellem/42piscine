@@ -1,0 +1,5 @@
+Credentials cache: API:A1781942-7E3B-45A1-87FD-0E1AE1BD101E
+        Principal: besellem@42.FR
+
+  Issued                Expires               Principal
+Aug  3 10:54:48 2020  Aug 10 10:54:44 2020  krbtgt/42.FR@42.FR
